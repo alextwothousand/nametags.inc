@@ -74,7 +74,6 @@ hook OnGameModeExit()
 	return 1;
 }
 
-#include <YSI\y_hooks>
 hook OnGameModeInit()
 {
 	ShowNameTags(false);
@@ -82,7 +81,6 @@ hook OnGameModeInit()
 	return 1;
 }
 
-#include <YSI\y_hooks>
 hook OnPlayerConnect(playerid)
 {
 	SetPlayerColor(playerid, -1);
