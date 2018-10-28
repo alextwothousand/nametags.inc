@@ -12,3 +12,9 @@ I used these includes as they would make it quicker for me to write the include.
 -  If you want to modify the draw distance for the nametags you can define NT_DISTANCE in your script with a value below or greater than 20.0 **before you include the script**.
 - You should probably include this after all the dependencies.
 - You can work on this and modify it as you wish. Just keep the credits in, will you? :)
+
+## Downloads:
+- strlib (https://forum.sa-mp.com/showthread.php?t=362764)
+- streamer (https://github.com/samp-incognito/samp-streamer-plugin/releases)
+- foreach (you probably already have this)
+- y_hooks comes packaged with YSI
