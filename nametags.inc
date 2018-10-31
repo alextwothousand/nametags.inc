@@ -27,7 +27,7 @@ NOTE: These have to be included before you can use nametags, otherwise nametags 
 	#define NT_DISTANCE 20.0
 #endif
 
-new Text3D:p_Nametag[MAX_PLAYERS];
+static Text3D:p_Nametag[MAX_PLAYERS];
 
 stock SetPlayerNameTag(playerid, color)
 {
