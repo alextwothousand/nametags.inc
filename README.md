@@ -14,7 +14,5 @@ I used these includes as they would make it quicker for me to write the include.
 - You can work on this and modify it as you wish. Just keep the credits in, will you? :)
 
 ## Downloads:
-- strlib (https://forum.sa-mp.com/showthread.php?t=362764)
 - streamer (https://github.com/samp-incognito/samp-streamer-plugin/releases)
-- foreach (you probably already have this)
 - y_hooks comes packaged with YSI
